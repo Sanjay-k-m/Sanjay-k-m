@@ -83,13 +83,8 @@ My own side project for managing internal tools and operations across department
 
 <!-- Profile Summary Card -->
 <br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=github_dark" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 
-<!-- Contribution Graph -->
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-k-m&theme=tokyo-night&hide_border=false&area=true" width="95%" />
-
-</div>
 ---
 
 ## 💡 About Me
