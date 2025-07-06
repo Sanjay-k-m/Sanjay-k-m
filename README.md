@@ -73,9 +73,17 @@ My own side project for managing internal tools and operations across department
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-k-m&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-k-m&layout=compact&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-k-m&theme=tokyonight&hide_border=false" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-k-m&layout=compact&theme=tokyonight&hide_border=false" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanjay-k-m&theme=tokyo-night&hide_border=false&area=true" />
 </p>
 
 ---
