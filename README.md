@@ -69,14 +69,13 @@ An internal productivity and departmental tool I designed from scratch.
 ## 📦 Repository Overview
 
 <p align="center">
-  🔓&nbsp;
   <a href="https://github.com/Sanjay-k-m?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-11-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+    <img src="https://img.shields.io/badge/Public_Repos-11-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
   </a>
-  &nbsp;&nbsp;🔐&nbsp;
-  <img src="https://img.shields.io/badge/Private%20Repos-9-f9d71c?style=for-the-badge&logo=lock&logoColor=black" alt="Private Repos" />
-  &nbsp;&nbsp;📊&nbsp;
-  <img src="https://img.shields.io/badge/Total%20Repos-20-28a745?style=for-the-badge&logo=files&logoColor=white" alt="Total Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Private_Repos-9-f9d71c?style=for-the-badge&logo=github&logoColor=black" alt="Private Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Total_Repos-20-28a745?style=for-the-badge&logo=repo&logoColor=white" alt="Total Repos" />
 </p>
 
 ---
