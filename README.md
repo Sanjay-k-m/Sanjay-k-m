@@ -83,7 +83,9 @@ My own side project for managing internal tools and operations across department
 
 <!-- Profile Summary Card -->
 <br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=github_dark" width="90%" />
+
+</div>
 
 ---
 
