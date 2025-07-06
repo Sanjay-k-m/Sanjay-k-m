@@ -1,16 +1,15 @@
-name: Update README Stats
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours
+    - cron: '0 0 * * *' # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate GitHub Stats with Private Data
+      - name: Update GitHub Stats
         uses: anuraghazra/github-readme-stats@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
