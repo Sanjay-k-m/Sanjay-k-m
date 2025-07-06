@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjay K M</h1>
 <p align="center">
-  💻 Full Stack Developer (MERN | MOON | BURN Stack) <br/>
-  🔍 Currently Learning AI, Machine Learning & Data Science
+  💻 Full Stack Developer | MERN Stack | Passionate about Real-World Software  
+  🔍 Exploring AI, Machine Learning, and Data Science
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+%7C+MOON+%7C+BURN+Stack+Engineer;Working+on+HRMS+%26+Automation;Learning+AI+%2F+Machine+Learning+%2F+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real-world+Web+Apps;Learning+AI+%2F+ML+%2F+Data+Science" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,33 +43,30 @@
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### 🏢 Zylera Tech (Internship)
-> **Role:** Full Stack Developer Intern  
-> **Year:** 2024  
->  
-> 🔹 Developed full-featured HR & Asset Management modules  
-> 🔹 Implemented Punch-in/out using Electron  
-> 🔹 Built dynamic multi-calendar shift system  
-> 🔹 Used Puppeteer to generate PDF payslips  
->  
-> **Tech Used:** MERN Stack, Electron, JWT, MongoDB, Redux, Puppeteer
+### 🏢 HRMS – Internship Project  
+A full-featured HR & Asset Management System developed during my internship.  
+**Features:**
+- ✅ Role-based access (HR/Employee)
+- ✅ Shift-based calendar profiles (24-hour support)
+- ✅ Electron-based punch-in/out
+- ✅ Leave, attendance, food, and asset management
+- ✅ PDF payslip generation with Puppeteer  
+**Tech:** MERN Stack, Electron, Redux, MongoDB, JWT, Puppeteer
 
 ---
 
-## 🚀 Featured Project
+## ⚙️ Personal Project
 
-### 🧑‍💼 HR & Asset Management System
-A complete internal system for employee and asset tracking with:
-- ✅ Role-based access (HR & Employees)
-- ✅ Attendance, Leave, Shift Scheduling
-- ✅ Food cost tracking
-- ✅ Asset request + maintenance dashboard
-- ✅ PDF Payslip generation
-- ✅ Built using Electron for desktop punch-in/punch-out
-
-> **Tech Stack:** MongoDB, Express, React, Node.js, Redux, JWT, Electron, Puppeteer
+### 🚀 Zylera – Productivity & Departmental Tool  
+My own side project for managing internal tools and operations across departments.  
+**Features:**
+- ✅ Custom user roles and permissions  
+- ✅ Shift-specific calendar logic  
+- ✅ Attendance, asset, food, and to-do management  
+- ✅ Fully API-driven architecture  
+**Tech:** MERN Stack, Redux, JWT Auth, MUI, MongoDB
 
 ---
 
@@ -83,7 +80,7 @@ A complete internal system for employee and asset tracking with:
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
 <p align="left">
   <a href="mailto:sanjay_k.m@outlook.com"><img src="https://img.shields.io/badge/Email-sanjay_k.m@outlook.com-blue?style=for-the-badge&logo=gmail"></a>
@@ -93,10 +90,10 @@ A complete internal system for employee and asset tracking with:
 
 ---
 
-## 💡 Fun Fact
+## 💡 About Me
 
-I'm an introvert who prefers letting my code speak for itself.  
-Focused, consistent, and passionate about building systems that **actually solve problems**.
+I’m an introvert who enjoys building meaningful software that solves real-world problems.  
+I believe in deep focus, clean code, and continuous learning — one project at a time.
 
 ---
 
