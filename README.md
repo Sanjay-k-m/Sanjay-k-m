@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sanjay K M</h1>
 
 <p align="center">
-  💻 Full Stack Developer | MERN Stack | Passionate about solving real-world problems  
-  🔍 Currently exploring AI, Machine Learning, and Data Science  
+  💻 Full Stack Developer | MERN Stack | Passionate about building impactful software<br>
+  🔍 Currently diving into AI, Machine Learning, and Data Science
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Engineer;Exploring+AI+%2F+ML+%2F+DS;Love+clean+code+%26+focused+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;MERN+Stack+Engineer;Exploring+AI+%2F+ML+%2F+DS;Loves+Clean+Code+%26+Productivity" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)
 
-**Backend & DB**  
+**Backend & Database**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
@@ -45,29 +45,38 @@
 ## 💼 Projects
 
 ### 🏢 HRMS – Internship Project  
-A full-featured HR & Asset Management System developed during my internship.  
-**Key Features**  
-✅ Role-based access (HR/Employee)  
-✅ Shift calendar with 24-hour support  
-✅ Punch-in/out system with Electron  
-✅ Leave, asset, food, and to-do modules  
-✅ PDF payslip generation using Puppeteer  
-**Stack**: MERN, Redux, MongoDB, JWT, Electron
+A full-featured HR & Asset Management System built during my internship.  
+**Highlights:**  
+- ✅ Role-based access (HR / Employee)  
+- ✅ 24-hour shift calendar profiles  
+- ✅ Punch-in/out with Electron integration  
+- ✅ Attendance, leave, food & asset management  
+- ✅ PDF payslip generation with Puppeteer  
+**Stack:** MERN, Redux, JWT, Electron, MongoDB
 
 ---
 
-### 🚀 Zylera – Personal Productivity Tool  
-My own project designed to simplify internal department operations.  
-**Key Features**  
-✅ API-first backend design  
-✅ Shift-specific calendar & to-do system  
-✅ Custom roles and department-based access  
-✅ Centralized attendance, asset & food tracking  
-**Stack**: MERN, Redux, JWT, MUI
+### 🚀 Zylera – Personal Productivity Suite  
+An internal productivity and departmental tool I designed from scratch.  
+**Highlights:**  
+- ✅ Custom roles and permission logic  
+- ✅ Shift-based calendars for departments  
+- ✅ API-based to-do, asset, attendance, and food modules  
+**Stack:** MERN, Redux, JWT, Material UI
 
 ---
 
-## 📊 GitHub Stats (with Private Repos ✅)
+## 📦 Repository Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-11-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Private%20Repos-7-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Total%20Repos-18-success?style=flat-square" />
+</p>
+
+---
+
+## 📊 GitHub Stats (with Private Contributions ✅)
 
 <div align="center">
 
@@ -85,9 +94,9 @@ My own project designed to simplify internal department operations.
 
 ## 💡 About Me
 
-I'm an introvert who finds joy in building software that makes a difference.  
-I value clean code, focused development, and lifelong learning.  
-Each project I build is a step toward mastering what I love.  
+I'm an introvert who enjoys building software that makes life easier.  
+I believe in focused effort, clean architecture, and continuous learning.  
+Every project is a personal challenge to grow as a developer.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
