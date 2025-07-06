@@ -73,7 +73,7 @@ My own side project for managing internal tools and operations across department
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-k-m&theme=tokyonight&hide_border=false" width="47%" />
 </p>
 
@@ -100,7 +100,7 @@ My own side project for managing internal tools and operations across department
 
 ## 💡 About Me
 
-I’m an introvert who enjoys building meaningful software that solves real-world problems.  
+I'm an introvert who enjoys building meaningful software that solves real-world problems.  
 I believe in deep focus, clean code, and continuous learning — one project at a time.
 
 ---
