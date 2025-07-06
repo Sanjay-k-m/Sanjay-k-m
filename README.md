@@ -12,7 +12,7 @@
 
 ## 🔧 Tech Stack
 
-**Frontend Development**  
+**Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF.svg?logo=mui&logoColor=white)
@@ -46,13 +46,14 @@
 ## 💼 Experience
 
 ### 🏢 HRMS – Internship Project  
-A full-featured HR & Asset Management System developed during my internship.  
-**Features:**
-- ✅ Role-based access (HR/Employee)
-- ✅ Shift-based calendar profiles (24-hour support)
-- ✅ Electron-based punch-in/out
-- ✅ Leave, attendance, food, and asset management
+A full-featured HR & Asset Management System developed during my internship.
+
+- ✅ Role-based access (HR/Employee)  
+- ✅ Shift-based calendar profiles (24-hour support)  
+- ✅ Electron-based punch-in/out  
+- ✅ Leave, attendance, food, and asset management  
 - ✅ PDF payslip generation with Puppeteer  
+
 **Tech:** MERN Stack, Electron, Redux, MongoDB, JWT, Puppeteer
 
 ---
@@ -60,29 +61,30 @@ A full-featured HR & Asset Management System developed during my internship.
 ## ⚙️ Personal Project
 
 ### 🚀 Zylera – Productivity & Departmental Tool  
-My own side project for managing internal tools and operations across departments.  
-**Features:**
+My own side project for managing internal tools and operations across departments.
+
 - ✅ Custom user roles and permissions  
 - ✅ Shift-specific calendar logic  
 - ✅ Attendance, asset, food, and to-do management  
 - ✅ Fully API-driven architecture  
+
 **Tech:** MERN Stack, Redux, JWT Auth, MUI, MongoDB
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Contribution and Streak Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=false" height="180px" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjay-k-m&theme=radical&hide_border=false" height="180px" />
 
-<!-- Top Languages -->
 <br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-k-m&layout=compact&theme=radical&hide_border=false" height="140px" />
 
-<!-- Profile Summary Card -->
 <br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=github_dark" width="90%" />
 
 </div>
@@ -93,8 +95,6 @@ My own side project for managing internal tools and operations across department
 
 I'm an introvert who enjoys building meaningful software that solves real-world problems.  
 I believe in deep focus, clean code, and continuous learning — one project at a time.
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
