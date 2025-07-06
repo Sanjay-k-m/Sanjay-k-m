@@ -69,22 +69,25 @@ My own side project for managing internal tools and operations across department
 **Tech:** MERN Stack, Redux, JWT Auth, MUI, MongoDB
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-k-m&theme=tokyonight&hide_border=false" width="47%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-k-m&theme=tokyonight&hide_border=false" height="180px"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-k-m&layout=compact&theme=tokyonight&hide_border=false" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=tokyonight" width="47%" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanjay-k-m&theme=tokyo-night&hide_border=false&area=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-k-m&layout=compact&theme=tokyonight&hide_border=false" height="160px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=tokyonight" height="160px"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanjay-k-m&theme=tokyo-night&hide_border=false&area=true" width="95%"/>
+</div>
 
 ---
 
