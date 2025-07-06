@@ -18,8 +18,6 @@
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF.svg?logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 
 **Backend & Database**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
@@ -28,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
 
-**Tools & Platforms**  
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white)
@@ -43,48 +41,31 @@
 
 ---
 
-## 💼 Experience
+## 💼 Projects
 
 ### 🏢 HRMS – Internship Project  
-A full-featured HR & Asset Management System developed during my internship.
+Role-based HR & Asset Management System with shift calendars, leave tracking, asset and food management, and Electron punch-in/out.
 
-- ✅ Role-based access (HR/Employee)  
-- ✅ Shift-based calendar profiles (24-hour support)  
-- ✅ Electron-based punch-in/out  
-- ✅ Leave, attendance, food, and asset management  
-- ✅ PDF payslip generation with Puppeteer  
+**Stack:** MERN, Redux, MongoDB, Puppeteer
 
-**Tech:** MERN Stack, Electron, Redux, MongoDB, JWT, Puppeteer
+### 🚀 Zylera – Personal Productivity Tool  
+Custom-built tool for internal department and resource management with fully modular APIs and dynamic calendar support.
 
----
-
-## ⚙️ Personal Project
-
-### 🚀 Zylera – Productivity & Departmental Tool  
-My own side project for managing internal tools and operations across departments.
-
-- ✅ Custom user roles and permissions  
-- ✅ Shift-specific calendar logic  
-- ✅ Attendance, asset, food, and to-do management  
-- ✅ Fully API-driven architecture  
-
-**Tech:** MERN Stack, Redux, JWT Auth, MUI, MongoDB
+**Stack:** MERN, Redux, JWT, MUI, MongoDB
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Includes Private Repos 🚀)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=false" height="180px" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjay-k-m&theme=radical&hide_border=false" height="180px" />
+<!-- Safe token used through GitHub Actions, not exposed in this file -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-k-m&theme=radical&hide_border=false" height="180px" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-k-m&layout=compact&theme=radical&hide_border=false" height="140px" />
-
-<br/><br/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-k-m&layout=compact&theme=radical&hide_border=false" height="140px" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=github_dark" width="90%" />
 
 </div>
@@ -93,8 +74,8 @@ My own side project for managing internal tools and operations across department
 
 ## 💡 About Me
 
-I'm an introvert who enjoys building meaningful software that solves real-world problems.  
-I believe in deep focus, clean code, and continuous learning — one project at a time.
+I'm an introvert who enjoys deep work and building meaningful apps.  
+I believe in clean architecture, lifelong learning, and contributing with purpose.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
