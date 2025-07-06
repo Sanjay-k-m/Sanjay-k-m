@@ -72,33 +72,24 @@ My own side project for managing internal tools and operations across department
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-k-m&theme=tokyonight&hide_border=false" height="180px"/>
+
+<!-- Contribution and Streak Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay-k-m&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=false" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjay-k-m&theme=radical&hide_border=false" height="180px" />
+
+<!-- Top Languages -->
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-k-m&layout=compact&theme=radical&hide_border=false" height="140px" />
+
+<!-- Profile Summary Card -->
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=github_dark" width="90%" />
+
+<!-- Contribution Graph -->
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-k-m&theme=tokyo-night&hide_border=false&area=true" width="95%" />
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-k-m&layout=compact&theme=tokyonight&hide_border=false" height="160px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-k-m&theme=tokyonight" height="160px"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanjay-k-m&theme=tokyo-night&hide_border=false&area=true" width="95%"/>
-</div>
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="mailto:sanjay_k.m@outlook.com"><img src="https://img.shields.io/badge/Email-sanjay_k.m@outlook.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sanjay-k-m/"><img src="https://img.shields.io/badge/LinkedIn-Sanjay%20K%20M-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Sanjay-k-m"><img src="https://img.shields.io/badge/GitHub-Sanjay--k--m-black?style=for-the-badge&logo=github"></a>
-</p>
-
 ---
 
 ## 💡 About Me
