@@ -70,12 +70,12 @@ An internal productivity and departmental tool I designed from scratch.
 
 <p align="center">
   <a href="https://github.com/Sanjay-k-m?tab=repositories">
-    <img src="https://img.shields.io/badge/Public_Repos-11-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+    <img src="https://img.shields.io/badge/Public_Repos-14-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Private_Repos-9-f9d71c?style=for-the-badge&logo=github&logoColor=black" alt="Private Repos" />
+  <img src="https://img.shields.io/badge/Private_Repos-7-f9d71c?style=for-the-badge&logo=github&logoColor=black" alt="Private Repos" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Total_Repos-20-28a745?style=for-the-badge&logo=repo&logoColor=white" alt="Total Repos" />
+  <img src="https://img.shields.io/badge/Total_Repos-21-28a745?style=for-the-badge&logo=repo&logoColor=white" alt="Total Repos" />
 </p>
 
 ---
