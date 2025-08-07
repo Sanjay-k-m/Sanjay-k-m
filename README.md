@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanjay K M</h1>
 
 <p align="center">
-  💻 Full Stack Developer | MERN Stack | Passionate about building impactful software<br>
-  🔍 Currently diving into AI, Machine Learning, and Data Science
+  💻 Full Stack Developer | MERN Stack | Freelancer | Passionate about building impactful software<br>
+  🔍 Currently exploring AI, Machine Learning, and Data Science<br>
+  🌐 <a href="https://sanjay-k-m-dev-portfolio-v1.netlify.app" target="_blank"><strong>Visit My Portfolio</strong></a>
 </p>
 
 <p align="center">
@@ -42,27 +43,53 @@
 
 ---
 
-## 💼 Projects
+## 💼 Freelance Projects
 
-### 🏢 HRMS – Internship Project  
-A full-featured HR & Asset Management System built during my internship.  
+### 🌐 Trade Fusion Corporate Website – Freelance  
+A responsive business website developed for a UAE-based trading company.  
+Includes a fully functional admin panel to manage products, categories, and images using Firebase Firestore and Storage. Integrated bulk deletion, secure image uploads, and type filtering.  
 **Highlights:**  
-- ✅ Role-based access (HR / Employee)  
-- ✅ 24-hour shift calendar profiles  
-- ✅ Punch-in/out with Electron integration  
-- ✅ Attendance, leave, food & asset management  
-- ✅ PDF payslip generation with Puppeteer  
-**Stack:** MERN, Redux, JWT, Electron, MongoDB
+- ✅ Built with React.js and Bootstrap  
+- ✅ Custom admin dashboard for product and category management  
+- ✅ Firebase Storage for image handling  
+- ✅ Hosted on Netlify with domain via GoDaddy  
+**Stack:** React.js, Bootstrap, Firebase, Firestore, Firebase Storage, Netlify, GoDaddy  
+🔗 [Live Site](https://tradefusionuae.com)
 
 ---
 
-### 🚀 Zylera – Personal Productivity Suite  
-An internal productivity and departmental tool I designed from scratch.  
+## 💻 Personal Projects
+
+### 🏢 HRMS – Internship Project (Private Repo)  
+A full-featured Human Resource Management System developed during my internship.  
+**Note:** Source code is private due to NDA/commercial restrictions.  
 **Highlights:**  
-- ✅ Custom roles and permission logic  
-- ✅ Shift-based calendars for departments  
-- ✅ API-based to-do, asset, attendance, and food modules  
-**Stack:** MERN, Redux, JWT, Material UI
+- ✅ Role-based access for HR and employees  
+- ✅ Shift calendar integration  
+- ✅ Punch-in/out with Electron desktop app  
+- ✅ Attendance, leave, food, and asset management  
+- ✅ Payslip generation as downloadable PDFs using Puppeteer  
+**Stack:** MERN, Redux, JWT, Electron, MongoDB  
+🔗 [Live Demo](https://hrmstest.domainenroll.com/auth/login)
+
+### 🚀 Zylera – Personal Productivity Suite  
+A multi-module internal productivity suite built from scratch.  
+**Highlights:**  
+- ✅ Role-based access control with permission logic  
+- ✅ Departmental shift calendar  
+- ✅ API-powered asset, attendance, and to-do management  
+**Stack:** MERN, Redux, JWT, Material UI  
+🔗 [Live Demo](https://zylera-ecommerce.vercel.app/) • 💻 [Code](https://github.com/Sanjay-k-m/zylera-ecommerce)
+
+### 💬 Realtime Chat App  
+A full-stack MERN chat app with WebSockets, real-time messaging, typing indicators, and auth.  
+**Stack:** MERN, WebSockets, JWT  
+💻 [Code](https://github.com/Sanjay-k-m/mern-realtime-chat-app-frontend)
+
+### 📊 React Admin Dashboard  
+A responsive admin dashboard with real-time UI components and data visualizations.  
+**Stack:** React, Tailwind CSS, Chart.js  
+🔗 [Live Demo](https://react-admin-dashboard-rust-phi.vercel.app/) • 💻 [Code](https://github.com/Sanjay-k-m/react-admin-dashboard)
 
 ---
 
@@ -75,7 +102,7 @@ An internal productivity and departmental tool I designed from scratch.
   &nbsp;
   <img src="https://img.shields.io/badge/Private_Repos-7-f9d71c?style=for-the-badge&logo=github&logoColor=black" alt="Private Repos" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Total_Repos-21-28a745?style=for-the-badge&logo=repo&logoColor=white" alt="Total Repos" />
+  <img src="https://img.shields.io/badge/Total_Repos-22-28a745?style=for-the-badge&logo=repo&logoColor=white" alt="Total Repos" />
 </p>
 
 ---
@@ -98,9 +125,13 @@ An internal productivity and departmental tool I designed from scratch.
 
 ## 💡 About Me
 
-I'm an introvert who enjoys building software that makes life easier.  
-I believe in focused effort, clean architecture, and continuous learning.  
-Every project is a personal challenge to grow as a developer.
+I'm a passionate full-stack developer who enjoys solving real-world problems through code.  
+Currently focused on growing my skill set in **AI, ML, and Data Science**, while building production-ready software with modern stacks like **MERN, Firebase, and Electron**.
+
+💼 I also work as a **freelancer**, building web applications for clients across industries.  
+One of my recent freelance projects is the [**Trade Fusion Corporate Website**](https://tradefusionuae.com), a fully deployed platform for a UAE-based business with integrated admin panel functionality.
+
+I believe in clean code, solid architecture, and continuous improvement.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
