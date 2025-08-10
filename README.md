@@ -10,6 +10,6 @@
 
 🤝 Let's connect! Open to collaborations, freelance projects, and tech discussions.
 
-📧 Email: [your-email@example.com]  
+📧 Email: sanjay_k.m@outlook.com 
 🔗 LinkedIn: https://www.linkedin.com/in/sanjay-k-m
 
