@@ -6,7 +6,7 @@
 
 🚀 Passionate about building impactful, scalable web applications with clean code and solid architecture.
 
-🌐 [Visit My Portfolio](https://sanjay-k-m-dev-portfolio-v1.netlify.app)
+🌐 [Visit My Portfolio](https://sanjaykm.com)
 
 🤝 Let's connect! Open to collaborations, freelance projects, and tech discussions.
 
